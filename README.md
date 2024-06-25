@@ -1,6 +1,6 @@
-# TravelVista - Modern Travel Landing Page
+# unWind - Modern Travel Landing Page
 
-TravelVista is a modern, responsive single-page travel landing page built with React and TypeScript. It features a sleek design, smooth animations, and a mobile-friendly interface, making it an ideal addition to any web developer's portfolio.
+unWind is a modern, responsive single-page travel landing page built with React and TypeScript. It features a sleek design, smooth animations, and a mobile-friendly interface, making it an ideal addition to any web developer's portfolio.
 
 ## 🌟 Features
 
