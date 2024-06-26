@@ -4,6 +4,7 @@ Visit here: https://un-wind.vercel.app
 
 unWind is a modern, responsive single-page travel landing page built with React and TypeScript. It features a sleek design, smooth animations, and a mobile-friendly interface.
 
+```
 unWind/
 ├── public/
 ├── src/
@@ -19,7 +20,7 @@ unWind/
 │   └── index.tsx
 ├── package.json
 └── tsconfig.json
-
+```
 ## 🌟 Features
 
 - Responsive design that looks great on both desktop and mobile devices
