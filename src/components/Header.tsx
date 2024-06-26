@@ -32,7 +32,10 @@ const Header: React.FC = () => {
 
   return (
     <header className={`header ${isScrolled ? "scrolled" : ""}`}>
-      <div className="logo">TravelVista</div>
+      <div className="logo">
+        <span className="un">un</span>
+        Wind
+      </div>
       <div
         className={`hamburger ${isMenuOpen ? "open" : ""}`}
         onClick={toggleMenu}
