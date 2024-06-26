@@ -1,4 +1,3 @@
-=======
 # unWind - Modern Travel Landing Page
 
 unWind is a modern, responsive single-page travel landing page built with React and TypeScript. It features a sleek design, smooth animations, and a mobile-friendly interface, making it an ideal addition to any web developer's portfolio.
@@ -18,4 +17,4 @@ unWind is a modern, responsive single-page travel landing page built with React 
 - TypeScript
 - CSS3 with Flexbox and Grid
 - React Intersection Observer for scroll animations
->>>>>>> bb07884973807c2695833bc6c80085c237930e40
+
