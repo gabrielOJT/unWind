@@ -37,6 +37,7 @@ const Footer: React.FC = () => {
       </div>
       <div className="footer-bottom">
         <p>&copy; 2024 unWind. All rights reserved.</p>
+        <p>&copy; gabdotcode.</p>
       </div>
     </footer>
   );
